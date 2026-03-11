@@ -12,7 +12,7 @@ Clique no ícone de Extensões na barra lateral esquerda (parece um conjunto de 
 Na barra de pesquisa, digite "Live Server".
 Localize a extensão desenvolvida por Ritwick Dey e clique em Install. 
 
-## 3. Como usar o Live Server no Codespaces
+## 3. Como usar o Live Server no Codespahttps://github.com/sofiasouzacordeiro-ui/meu-primeiro-commitces
 Diferente do desktop, o Codespaces roda na nuvem, então ele gerencia o redirecionamento de portas automaticamente: 
 Abra o seu arquivo index.html.
 
@@ -23,3 +23,4 @@ Clique em "Open in Browser" para ver seu site ao vivo.
 Toda vez que você salvar o arquivo (Ctrl+S), a página no navegador será atualizada automaticamente. 
 
    
+https://github.com/sofiasouzacordeiro-ui/meu-primeiro-commit
